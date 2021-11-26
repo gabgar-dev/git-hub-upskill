@@ -4,5 +4,13 @@ Instructions of how to use this file
 
 troubleshotting
 
+<<<<<<< HEAD
 
 adding visual studio changes
+=======
+=======
+adding more lines here
+
+
+adding other lines based on visual studio
+>>>>>>> 001b196f1ac4d54f656c4f2e66cd07d5776637ec
