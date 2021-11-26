@@ -3,3 +3,5 @@ Instructions of how to use this file
 
 
 troubleshotting
+
+adding visual studio changes
