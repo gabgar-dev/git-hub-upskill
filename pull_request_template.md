@@ -9,6 +9,6 @@ Fixes # (issue)
 
 ## Type of Change
 
-- [] bug fix
-- [] New Feature
-- [] Breaking change
+- [ ] bug fix
+- [ ] New Feature
+- [ ] Breaking change
