@@ -1,2 +1,7 @@
 new file
 Instructions of how to use this file
+
+
+troubleshotting
+
+adding more lines here
